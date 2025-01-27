@@ -1,0 +1,7 @@
+.navbar {
+    background-color: #6610f2;
+}
+.photo-grid .col img {
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+}
